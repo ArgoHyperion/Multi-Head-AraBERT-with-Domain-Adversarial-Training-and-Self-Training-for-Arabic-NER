@@ -4,8 +4,6 @@ Multi-head AraBERT with Domain Adversarial Training and Self-Training for nested
 
 Official submission of team **Laziness** to the **AdaptNER shared task (Subtask 1: Cross-Domain Named Entity Recognition)**, hosted at **KnowledgeGraphEval 2026**.
 
-> Ho, Q. H. "Laziness at KnowledgeGraphEval 2026: Multi-Head AraBERT with Domain Adversarial Training and Self-Training for Cross-Domain Arabic Named Entity Recognition."
-
 ---
 
 ## Overview
