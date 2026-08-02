@@ -247,24 +247,9 @@ See Sections 6–7 of the accompanying paper for full error analysis and discuss
 
 ## Citation
 
-If you use this code, please cite the shared task submission:
-
-```bibtex
-@inproceedings{ho2026laziness,
-  title     = {Laziness at KnowledgeGraphEval 2026: Multi-Head AraBERT with Domain Adversarial Training and Self-Training for Cross-Domain Arabic Named Entity Recognition},
-  author    = {Ho, Quan Hoang},
-  booktitle = {Proceedings of the AdaptNER Shared Task at KnowledgeGraphEval 2026},
-  year      = {2026}
-}
-```
-
-Please also cite the underlying resources this work builds on: AraBERT (Antoun et al., 2020), Wojood (Jarrar et al., 2022), the Konooz corpus, DANN (Ganin et al., 2016), and SWA (Izmailov et al., 2018).
-
 ---
 
 ## License
-
-No license file is included by default. Add one (for example, MIT or Apache-2.0) before distributing this code publicly, and confirm the licensing terms of the Wojood and Konooz corpora separately, as they are governed by their original authors and the AdaptNER shared task organizers.
 
 ---
 
